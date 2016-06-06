@@ -1,5 +1,5 @@
 # fullstack-windows
-> List of things to do before develop on Windows
+> List of things to do before start develop on Windows
 
 - Windows
 	- [Create USB](https://www.microsoft.com/en-us/software-download/windows10)
@@ -8,6 +8,7 @@
   - [Install Git](https://git-scm.com/download/win)
     - Mind to check last option: Use Git and optional Unix tools from the windows command prompt.
     - Change global email `git config --global user.email "your_email@example.com"`
+    - Check global email `git config --global user.email`
   - [Heroku toolbelt](https://toolbelt.heroku.com/)
   - [Visual Studio Code](https://code.visualstudio.com/Docs/?dv=win)
   - [Node Version Manager](https://github.com/coreybutler/nvm-windows/releases)
