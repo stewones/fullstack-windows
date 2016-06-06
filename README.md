@@ -6,7 +6,7 @@
 	- Install/update Windows and drivers
 - Tools
   - [Git](https://git-scm.com/download/win)
-    - When installing mind to check the last option: **Use Git and optional Unix tools from the windows command prompt.**
+    - When installing mind to check the last option: _"Use Git and optional Unix tools from the windows..."_
     - Change global email `git config --global user.email "your_email@example.com"`
     - Check global email `git config --global user.email`
   - [Heroku toolbelt](https://toolbelt.heroku.com/)
