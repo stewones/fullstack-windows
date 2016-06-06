@@ -12,6 +12,7 @@
   - [Heroku toolbelt](https://toolbelt.heroku.com/)
   - [Visual Studio Code](https://code.visualstudio.com/Docs/?dv=win)
   - [Mongodb](https://www.mongodb.com/download-center#community)
+  - [3TMongoChef](http://3t.io/mongochef/download/platform/)
     - [Setup](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#manually-create-a-windows-service-for-mongodb-community-edition) the mongodb environment and create a service
   - [Dropbox](https://www.dropbox.com/downloading) 
  - [Node Version Manager](https://github.com/coreybutler/nvm-windows/releases)
@@ -22,3 +23,5 @@
     - [Gulp](http://gulpjs.com/) `npm install -g gulp`
     - [Bower](http://bower.io/) `npm install -g bower`
     - [Slush](http://slushjs.github.io/) `npm install -g slush`
+- For fun
+  - [Spotify](https://www.spotify.com/br/download/windows/) 
