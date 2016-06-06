@@ -6,7 +6,10 @@
 	- Install/update Windows and drivers
 
 - Tools
-  - [Git](https://git-scm.com/download/win)
+  - [Install Git](https://git-scm.com/download/win)
+    - Mind to check last option: Use Git and optional Unix tools from the windows command prompt.
   - [Heroku toolbelt](https://toolbelt.heroku.com/)
   - [Visual Studio Code](https://code.visualstudio.com/Docs/?dv=win)
   - [Node Version Manager](https://github.com/coreybutler/nvm-windows/releases)
+    - Open windows CMD and install node v4.4.3 `nvm install 4.4.3`
+    - Enable node in installed version `nvm use 4.4.3`
