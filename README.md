@@ -12,6 +12,7 @@
   - [Heroku toolbelt](https://toolbelt.heroku.com/)
   - [Visual Studio Code](https://code.visualstudio.com/Docs/?dv=win)
   - [Mongodb](https://www.mongodb.com/download-center#community)
+    - [Setup](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) the mongodb environment 
   - [Dropbox](https://www.dropbox.com/downloading) 
  - [Node Version Manager](https://github.com/coreybutler/nvm-windows/releases)
     - Open windows CMD and install node v4.4.3 `nvm install 4.4.3`
