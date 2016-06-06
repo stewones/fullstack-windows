@@ -15,6 +15,6 @@
     - Open windows CMD and install node v4.4.3 `nvm install 4.4.3`
     - Enable node in installed version `nvm use 4.4.3`
 - Global packages
-    - Gulp `npm install -g gulp`
-    - Bower `npm install -g bower`
-    - Slush `npm install -g slush`
+    - [Gulp](http://gulpjs.com/) `npm install -g gulp`
+    - [Bower](http://bower.io/) `npm install -g bower`
+    - [Slush](http://slushjs.github.io/) `npm install -g slush`
