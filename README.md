@@ -24,5 +24,6 @@
     - [Bower](http://bower.io/) `npm install -g bower`
     - [Appfy](http://appfy.org) `npm install -g appfy-cli`
     - [Nodemon](http://nodemon.io/) `npm install -g nodemon`
+- [Jekyll](http://jekyll-windows.juthilo.com/)
 - For fun
   - [Spotify](https://www.spotify.com/br/download/windows/) 
