@@ -22,7 +22,7 @@
 - Node global packages
     - [Gulp](http://gulpjs.com/) `npm install -g gulp`
     - [Bower](http://bower.io/) `npm install -g bower`
-    - [Appfy](http://appfy,org/) `npm install -g appfy-cli`
+    - [Appfy](http://appfy.org) `npm install -g appfy-cli`
     - [Nodemon](http://nodemon.io/) `npm install -g nodemon`
 - For fun
   - [Spotify](https://www.spotify.com/br/download/windows/) 
